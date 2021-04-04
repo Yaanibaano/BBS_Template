@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184341444949",
+    "project_id": "blub-66462",
+    "storage_bucket": "blub-66462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184341444949:android:7d8c27fd7c86555a74d7dc",
+        "android_client_info": {
+          "package_name": "com.example.bbs_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184341444949-s7qjbod6vff0mjcnel0lh5b44hdlg349.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAP1oycU0HFSMWeAviigpdN3qOyEZJ5YA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184341444949-s7qjbod6vff0mjcnel0lh5b44hdlg349.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
